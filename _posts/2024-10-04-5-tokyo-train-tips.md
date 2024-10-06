@@ -1,6 +1,6 @@
 ---
 title: 5 Tokyo train tips
-date: 2024-10-06 00:00:00 Z
+date: 2024-10-04 00:00:00 Z
 excerpt: Here are my five tips to keep you sane and get you to your destination on
   the Tokyo Subway.
 ---
