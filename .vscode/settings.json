@@ -1,0 +1,8 @@
+{
+    "[scss]": {
+        "editor.formatOnSave": false
+    },
+    "[/assets/css/app.scss]": {
+        "editor.formatOnSave": false
+    }
+}
